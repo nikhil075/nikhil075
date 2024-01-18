@@ -10,8 +10,8 @@
 | Education                                                 | Degree               	      | Duration                     	|
 |---------------------------------------------------------- |----------------------------	|------------------------------	|
 
-|[WorldQuant University](https://www.wqu.edu)| M.S in Fiancial Engineering                |October 2023 - November 2025 |   <br> 
-|[DCRUST University](https://www.dcrustm.ac.in)| B.Tech In Electronics Communication Engineering                        | Aug 2019- July 2023|
+|[WorldQuant University](https://www.wqu.edu)__| M.S in Fiancial Engineering___________________ |October 2023 - November 2025 |   <br> 
+|[DCRUST University](https://www.dcrustm.ac.in)| B.Tech In Electronics Communication Engineering| Aug 2019- July 2023|
 
 
 </div>
