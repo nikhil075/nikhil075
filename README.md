@@ -1,5 +1,5 @@
 - 👋 Hi, I’m NIkhil Taneja
-- 👀 I’m interested in Web3, Blockchain ,AI , LLM's ,Auant and Finance 
+- 👀 I’m interested in Web3, Blockchain ,AI , LLM's ,Quant and Finance 
   <h3>Work Experience</h3>
   
 | Company Name                                              | Role               	| Duration                     	|
