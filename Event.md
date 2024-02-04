@@ -16,14 +16,15 @@ A revolutionary DApp facilitating decentralized event hosting and ticket booking
 EventBooking DApp
 
 ## Images:
-![Screenshot 1](link/to/screenshot1.png)
-![Screenshot 2](link/to/screenshot2.png)
-![Screenshot 3](link/to/screenshot3.png)
-![Screenshot 4](link/to/screenshot4.png)
-![Screenshot 5](link/to/screenshot5.png)
+![Screenshot 1](https://amber-capitalist-manatee-837.mypinata.cloud/ipfs/QmUFNsmQdxxt5PjUvJsqb2Kg4R3vSPex54A32VBiDWgCYG/Screenshot%202024-02-04%20221324.png)
+
+![Screenshot 2](https://amber-capitalist-manatee-837.mypinata.cloud/ipfs/QmUFNsmQdxxt5PjUvJsqb2Kg4R3vSPex54A32VBiDWgCYG/Screenshot%202024-02-04%20221423.png)
+![Screenshot 3](https://amber-capitalist-manatee-837.mypinata.cloud/ipfs/QmUFNsmQdxxt5PjUvJsqb2Kg4R3vSPex54A32VBiDWgCYG/Screenshot%202024-02-04%20221435.png)
+![Screenshot 4](https://amber-capitalist-manatee-837.mypinata.cloud/ipfs/QmUFNsmQdxxt5PjUvJsqb2Kg4R3vSPex54A32VBiDWgCYG/Screenshot%202024-02-04%20221443.png)
+![Screenshot 5](https://amber-capitalist-manatee-837.mypinata.cloud/ipfs/QmUFNsmQdxxt5PjUvJsqb2Kg4R3vSPex54A32VBiDWgCYG/Screenshot%202024-02-04%20222159.png)
 
 ## Video:
-[EventBooking DApp Video](https://www.youtube.com/watch?v=-Uc6YqJ6QEQ <@618471511094722601> embedd this video in the readme)
+[EventBooking DApp Video](https://www.youtube.com/watch?v=-Uc6YqJ6QEQ)
 
 ## Website:
 [EventBooking DApp Website](https://www.thecodesters.tech) 
